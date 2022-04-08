@@ -4,5 +4,5 @@ var email = document.getElementById("b2");
 
 //metodo para mostrar um alerta treinamento
 function teste(){
-    alert("Formulario enviado com sucesso!" + texto1.value + "" + email.value);
+    alert("Formulario enviado com sucesso!" + texto1.value + "" + email.value) ;
 }
